@@ -3,14 +3,14 @@
 
 title: inspiration of xinying.Z
 description: zxy design. # this means to ignore newlines until "baseurl:"
-baseurl: "https://zxinying.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "https://zxinying.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
-author-avatar: 09.jpg
+author-name:   zhengxinying
+author-avatar: photo/IMG_5217.JPG
 
 
 #-------------------------------
