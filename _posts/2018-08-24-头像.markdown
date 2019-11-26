@@ -8,4 +8,4 @@ tags:   插画
 
 ## 手绘
 ![]({{site.baseurl}}/img/photo/IMG_6318.JPG)
-![]({{site.baseurl}}/img/photo/IMG_6318.JPG)
+![]({{site.baseurl}}/img/photo/IMG_6317.JPG)
