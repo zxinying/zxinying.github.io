@@ -1,0 +1,11 @@
+---
+layout: post
+title:  头像
+date:   2018-08-23 16:04:55 +0300
+image:  photo/IMG_6318.JPG
+tags:   插画
+---
+
+## 手绘
+![]({{site.baseurl}}/img/photo/IMG_6318.JPG)
+![]({{site.baseurl}}/img/photo/IMG_6318.JPG)
