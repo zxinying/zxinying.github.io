@@ -7,3 +7,4 @@ tags:   插画
 ---
 
 ## 手绘
+![]({{site.baseurl}}/img/photo/IMG_6149.JPG)
