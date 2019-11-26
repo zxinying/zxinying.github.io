@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  yellow
+title:  练习1
 date:   2018-08-23 16:04:55 +0300
-image:  photo/IMG_6149.jpg
+image:  photo/IMG_6149.JPG
 tags:   插画
 ---
 
